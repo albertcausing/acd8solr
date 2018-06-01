@@ -1,0 +1,14 @@
+uuid: f170b30b-17b0-4c1f-aedd-a82c05fb634a
+name: acd8solr
+mail: albert@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
